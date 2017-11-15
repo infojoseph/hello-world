@@ -1,0 +1,20 @@
+<!DocTYPE html>
+<html>
+<head>
+    <title> Recipe Book </title>
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<Body>
+    <div class="container">
+        <div class="row">
+            <dic class="col-md-offset-2col-md-7">
+                {+body /}
+            </div>
+        </div>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="/js/bootstrap.js"></script>
+</body>
+</html>
